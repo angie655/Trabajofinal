@@ -1,0 +1,11 @@
+Model Information:
+* title:	Brunhilda
+* source:	https://sketchfab.com/3d-models/brunhilda-eb9ca49ef3154206b314d41206b0ab79
+* author:	Rebecca (https://sketchfab.com/rebecca)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Brunhilda" (https://sketchfab.com/3d-models/brunhilda-eb9ca49ef3154206b314d41206b0ab79) by Rebecca (https://sketchfab.com/rebecca) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
